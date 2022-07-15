@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berbilim
 - 👀 I’m interested in develop program skills.
-- 🌱 I’m currently learning html, java and basica program.
+- 🌱 I’m currently learning html, java and basic programs.
 - 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me: 
 berbilim@gmail.com 
